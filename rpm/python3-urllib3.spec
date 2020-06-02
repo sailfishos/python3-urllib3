@@ -25,5 +25,5 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/urllib3
-%{python3_sitearch}/urllib3-*.egg-info
+%{python3_sitelib}/urllib3
+%{python3_sitelib}/urllib3-*.egg-info
