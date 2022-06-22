@@ -3,7 +3,7 @@ Summary:    Powerful, sanity-friendly HTTP client for Python
 Version:    1.25.9
 Release:    1
 License:    MIT
-URL:        https://pypi.org/project/urllib3/
+URL:        https://github.com/sailfishos/python3-urllib3
 BuildArch:  noarch
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   python3-base
